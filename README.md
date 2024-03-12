@@ -1,5 +1,5 @@
 # CartFakeStoreAPI
-To Set (Use any IDE [Preffered : Intelli J ]);
+To Set up (Use any IDE [Preffered : Intelli J ]);
 clone my repo;
 add required dependencies like Lombok,etc.
 Either generate hhtp request in Intelli J itself , or use PostMan dektop version to generate request at localhost
